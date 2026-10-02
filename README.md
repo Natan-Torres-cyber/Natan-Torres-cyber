@@ -13,4 +13,6 @@ Estudante do 4º semestre de **Análise e Desenvolvimento de Sistemas** na FEMA 
 | [sistema-monitoramento-agricola](https://github.com/Natan-Torres-cyber/sistema-monitoramento-agricola) | PHP e MySQL, modelagem de banco, CRUD, login seguro (projeto em grupo para um produtor rural) |
 | [analise-dados-superstore](https://github.com/Natan-Torres-cyber/analise-dados-superstore) | Análise exploratória com Pandas e gráficos |
 
+**Tecnologias:** Python · SQL · MySQL · PHP · Pandas · C++ · Git
+
 📫 [LinkedIn](https://www.linkedin.com/in/natan-torres-248367364) · natantorres20@gmail.com
